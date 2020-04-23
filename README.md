@@ -28,15 +28,13 @@
 
 3 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-4 - [public-apis](https://github.com/public-apis/public-apis)
+6 - [computer-science](https://github.com/ossu/computer-science)
 
-5 - [computer-science](https://github.com/ossu/computer-science)
+7 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
-6 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+8 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
-7 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-
-8 - [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+9 - [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 
 **Other**
@@ -83,3 +81,5 @@
 20 -  [awesome](https://github.com/sindresorhus/awesome)
 
 21 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+22 - [public-apis](https://github.com/public-apis/public-apis)
